@@ -1,0 +1,21 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 300;
+}
+
+.welcome-page h1, .welcome-page p{
+    text-align: center;
+}
+.notification-form{
+    width: 40%;
+    margin: auto;
+}
+.form-button{
+    margin-top:10px;
+}
+.welcome-page{
+    width: 90%;
+    box-shadow: 0px 0px 3px #CCC;
+    margin: auto;
+    padding:10px;
+}
